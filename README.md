@@ -19,7 +19,20 @@ NOTE: Requested features may never get implemented since I am a full-time colleg
 3. Describe the feature. If I have any confusion about what something means, then I will comment a question in the issue.
 4. Address any questions I have. If the questions are not addressed, I may get the implementation of the feature wrong.
 
+## How to submit a question
+NOTE: If a question is asked enough then I will put it in the FAQ.
+Questions that are in the FAQ will get the `duplicate` tag and will be closed with the comment `See FAQ`
+1. Create a new issue
+2. Title the issue `[QUESTION] Short description here`. Please limit the description to less than 8 words
+3. State your question clearly.
+4. If the question is a duplicate, it will get a `duplicate` tag, a relevant question will be linked, and the question will be closed.
+
 # FAQ
+## Will macOS be supported?
+I would say "No," but there may be a time in the far future where I will build for macOS.
+As of 11/1/21 there is **NO SUPPORT** for macOS, and no support is planned either.
+Please do not
+
 ## What font is that?
 Regular text: Ubuntu-Light by [Dalton Maag](http://www.daltonmaag.com/) [License](https://ubuntu.com/legal/font-licence)
 Mono text: [Hack-Regular](https://github.com/source-foundry/Hack) [License](https://github.com/source-foundry/Hack/blob/master/LICENSE.md)
