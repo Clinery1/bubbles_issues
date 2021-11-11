@@ -31,7 +31,7 @@ Questions that are in the FAQ will get the `duplicate` tag and will be closed wi
 ## Will macOS be supported?
 I would say "No," but there may be a time in the far future where I will build for macOS.
 As of 11/1/21 there is **NO SUPPORT** for macOS, and no support is planned either.
-Please do not
+Please do not ask
 
 ## What font is that?
 Regular text: Ubuntu-Light by [Dalton Maag](http://www.daltonmaag.com/) [License](https://ubuntu.com/legal/font-licence)
