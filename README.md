@@ -51,8 +51,7 @@ If you keep asking then never.
 
 ### Why not?
 1. I spent a lot of time on this project and don't feel like the code is ready to be open source (it is really bad).
-2. I have no idea what restrictions the licences of the libraries I used are, so I am avoiding potential legal trouble.
-3. I may sell this game once it is in a much more polished state.
-4. The codebase may be reused to power some of my future games. If not, open sourcing this code is much more likely to happen.
-5. The original name was "Asteroids" which can be confusing. The name was changed because the objects look more like bubbles than asteroids.
-6. Because I said so.
+2. I may sell this game once it is in a much more polished state.
+3. The codebase may be reused to power some of my future games. If not, open sourcing this code is much more likely to happen.
+4. The original name was "Asteroids" which can be confusing. The name was changed because the objects look more like bubbles than asteroids.
+5. Because I said so.
